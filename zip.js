@@ -1,6 +1,6 @@
 function cityStateAddress(city, state) {
     let address = city + ', ' + state.toUpperCase() // mn -> MN
- // let address = '${city}, ${state.toUpperCase()}  This is another way to do the line above it.
+    // let address = '${city}, ${state.toUpperCase()}  This is another way to do the line above it.
     return address
 }
 
